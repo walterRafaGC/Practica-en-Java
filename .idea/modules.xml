@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/1practica.iml" filepath="$PROJECT_DIR$/1practica.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdivinaNumero/AdivinaNumero.iml" filepath="$PROJECT_DIR$/AdivinaNumero/AdivinaNumero.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroEsFibonacci/NumeroEsFibonacci.iml" filepath="$PROJECT_DIR$/NumeroEsFibonacci/NumeroEsFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" filepath="$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParImpar/ParImpar.iml" filepath="$PROJECT_DIR$/ParImpar/ParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerieFibonacci/SerieFibonacci.iml" filepath="$PROJECT_DIR$/SerieFibonacci/SerieFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumaNumeros/SumaNumeros.iml" filepath="$PROJECT_DIR$/SumaNumeros/SumaNumeros.iml" />
     </modules>
   </component>
